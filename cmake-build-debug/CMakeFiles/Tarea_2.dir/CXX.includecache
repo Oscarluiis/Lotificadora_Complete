@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Lotificadora.cpp
+Lotificadora.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Lotificadora.h
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Lotificadora.h
+Terrenos.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Terrenos.h
+iostream
+-
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Proyecto_loto.cpp
+iostream
+-
+Proyecto_loto.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Proyecto_loto.h
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Proyecto_loto.h
+Lotificadora.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Lotificadora.h
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Terrenos.cpp
+Terrenos.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Terrenos.h
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Terrenos.h
+
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/main.cpp
+iostream
+-
+Lotificadora.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Lotificadora.h
+Proyecto_loto.h
+/Users/LuiizMusic11/Desktop/Tarea_2-Lab-progra3-master/Proyecto_loto.h
+
